@@ -62,14 +62,3 @@ Sistem dibuat menggunakan PHP untuk web utama dan Python untuk proses pencarian 
 4. Akses melalui browser
 
 ---
-
-## Catatan
-
-Karena keterbatasan hosting gratis (hanya mendukung PHP), proses OSINT dengan Python dijalankan sebagai service terpisah dan diakses melalui API.
-
----
-
-## Author
-
-Nama: (isi nama kamu)
-NIM: (isi NIM kamu)
